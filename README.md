@@ -3,7 +3,7 @@
 ![Karou's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sleppyiecat&theme=dracula) 
 
 [![](https://raw.githubusercontent.com/Sleppyiecat/Sleppyiecat/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleppyiecat&layout=compact&theme=dracula&count_private=true)
+![Favorite languages](https://raw.githubusercontent.com/Sleppyiecat/Sleppyiecat/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 🔭 I’m currently working on VantomBE for davinci
 
