@@ -13,8 +13,6 @@
 
 💬 Ask me about anything, just talk to me
 
-📫 How to reach me: https://t.me/Pro_Karou
-
 ⚡ Fun fact: I love anime & anime music
 
 
