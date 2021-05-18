@@ -1,16 +1,22 @@
-# github-profile-summary-cards-example
+### Hey, Karou there!! 👋
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+![Karou's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sleppyiecat&theme=dracula) 
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+[![](https://raw.githubusercontent.com/Sleppyiecat/Sleppyiecat/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleppyiecat&layout=compact&theme=dracula&count_private=true)
 
-```To create your profile README you need to name the repo as your username```
+🔭 I’m currently working on VantomBE for davinci
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+🌱 I’m currently learning android development
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+🤔 I’m looking for help with love
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+💬 Ask me about anything, just talk to me
+
+📫 How to reach me: https://t.me/Pro_Karou
+
+⚡ Fun fact: I love anime & anime music
+
+
+<!--
+**Sleppyiecat/Sleppyiecat** is a ✨ _sax_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
