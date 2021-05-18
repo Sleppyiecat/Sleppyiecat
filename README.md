@@ -5,7 +5,7 @@
 [![](https://raw.githubusercontent.com/Sleppyiecat/Sleppyiecat/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Sleppyiecat/Sleppyiecat/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-🔭 I’m currently working on VantomBE for davinci
+🔭 I’m currently working on VantomBE & KangOS for davinci
 
 🌱 I’m currently learning android development
 
