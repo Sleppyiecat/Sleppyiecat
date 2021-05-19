@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning android development
 
-🤔 I’m looking for help with love
+❤️ I’m looking for help with love
 
 💬 Ask me about anything, just talk to me
 
